@@ -5,5 +5,6 @@ testNews.txt
 testNews.txt
 testNews.txt
 testNews.txt
+test2.txt
 testNews.txt
 testNews.txt
