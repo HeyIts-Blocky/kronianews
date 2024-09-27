@@ -1,4 +1,0 @@
-https://blockmanblue.itch.io/
-9/23/2024
-Test 2
-Seperate test news to make sure scrolling and clicking works properly
