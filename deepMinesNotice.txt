@@ -1,0 +1,4 @@
+https://blockmanblue.itch.io/kronia-beta/devlog/815271/beta-v07-the-deep-mines-update
+Oct 14, 2024
+Major bugs found in v0.7! Working on patch.
+WARNING! Do not go to the Deep Mines quite yet! A bug has been discovered, where you are unable to leave the Deep Mines when you enter, and even while in the deep mines you can't pick up some items at times. v0.7.1 will be worked on shortly to resolve these issues! You will be able to move your worlds from v0.7 to v0.7.1 without issue.
