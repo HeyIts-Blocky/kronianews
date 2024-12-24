@@ -1,0 +1,4 @@
+https://blockmanblue.itch.io/kronia-beta/devlog/856324/godot-port-is-underway
+Dec 23, 2024
+Godot port is underway!
+I'm now working on a godot port of Kronia! This will take a while, as I'm not going to release it until it's caught up to the Java version of the game, but I will also be fixing up things that aren't so great in the game (and also I might add multiplayer?)
