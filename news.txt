@@ -2,3 +2,4 @@ welcome.txt
 v0.7.txt
 deepMinesNotice.txt
 v0.7.1.txt
+godotport.txt
